@@ -68,7 +68,7 @@ namespace PhoneApp1
         async void Validate()
         {
             var Client = new SALLab05.ServiceClient();
-            var Result = await Client.ValidateAsync("fayo2410@hotmail.com", "toneja21", this);
+            var Result = await Client.ValidateAsync("correo", "password", this);
 
             var Alert = UIAlertController.Create("Resultado",
                 $"{Result.Status}\n{Result.FullName}\n{Result.Token}", UIAlertControllerStyle.Alert);
