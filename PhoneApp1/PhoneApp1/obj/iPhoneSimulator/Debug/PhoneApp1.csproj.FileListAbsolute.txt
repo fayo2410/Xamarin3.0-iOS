@@ -1,0 +1,13 @@
+d:\documents\visual studio 2017\Projects\PhoneApp1\PhoneApp1\bin\iPhoneSimulator\Debug\PhoneApp1.exe
+d:\documents\visual studio 2017\Projects\PhoneApp1\PhoneApp1\bin\iPhoneSimulator\Debug\PhoneApp1.pdb
+d:\documents\visual studio 2017\Projects\PhoneApp1\PhoneApp1\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
+d:\documents\visual studio 2017\Projects\PhoneApp1\PhoneApp1\bin\iPhoneSimulator\Debug\SALLab05.dll
+d:\documents\visual studio 2017\Projects\PhoneApp1\PhoneApp1\bin\iPhoneSimulator\Debug\Newtonsoft.Json.xml
+d:\documents\visual studio 2017\Projects\PhoneApp1\PhoneApp1\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+d:\documents\visual studio 2017\Projects\PhoneApp1\PhoneApp1\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+d:\documents\visual studio 2017\Projects\PhoneApp1\PhoneApp1\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+d:\documents\visual studio 2017\Projects\PhoneApp1\PhoneApp1\obj\iPhoneSimulator\Debug\optimized\Entitlements.plist
+d:\documents\visual studio 2017\Projects\PhoneApp1\PhoneApp1\obj\iPhoneSimulator\Debug\optimized\
+d:\documents\visual studio 2017\Projects\PhoneApp1\PhoneApp1\obj\iPhoneSimulator\Debug\PhoneApp1.exe
+d:\documents\visual studio 2017\Projects\PhoneApp1\PhoneApp1\obj\iPhoneSimulator\Debug\PhoneApp1.pdb
+d:\documents\visual studio 2017\Projects\PhoneApp1\PhoneApp1\obj\iPhoneSimulator\Debug\PhoneApp1.csprojResolveAssemblyReference.cache
